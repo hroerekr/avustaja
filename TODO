@@ -1,0 +1,10 @@
++ General
+    - implement kong
+    - use the cache
+
+    - commands
+        - userinfo
+        - serverinfo
+        - reminders (mm needs more cache)
+        - eval
+        - change the formatting of the default error message when too many args supplied
