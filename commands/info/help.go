@@ -1,3 +1,3 @@
 package info
 
-/* Ignore this file */
+/* Ignore this file again */
